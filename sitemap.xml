@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://umairxdev.github.io/Duzup_Web/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://umairxdev.github.io/Duzup_Web/assets/og-image.png</image:loc><image:title>Duzup reminder app</image:title></image:image>
+    <image:image><image:loc>https://umairxdev.github.io/Duzup_Web/shots/home.jpg</image:loc><image:title>Duzup Home feed screen</image:title></image:image>
+    <image:image><image:loc>https://umairxdev.github.io/Duzup_Web/shots/calendar.jpg</image:loc><image:title>Duzup Calendar screen</image:title></image:image>
+    <image:image><image:loc>https://umairxdev.github.io/Duzup_Web/shots/notes.jpg</image:loc><image:title>Duzup Notes screen</image:title></image:image>
+    <image:image><image:loc>https://umairxdev.github.io/Duzup_Web/shots/stats.jpg</image:loc><image:title>Duzup Stats screen</image:title></image:image>
+    <image:image><image:loc>https://umairxdev.github.io/Duzup_Web/shots/settings.jpg</image:loc><image:title>Duzup Settings screen</image:title></image:image>
+  </url>
+</urlset>

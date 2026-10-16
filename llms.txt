@@ -1,0 +1,25 @@
+# Duzup
+
+> Duzup is a free, open-source, fully offline reminder app for Android. It keeps bills, events, tasks, notes, birthdays and routines in one place and sends heads-up notifications at the right time. No account, no ads, no analytics, no internet permission.
+
+Duzup is for people who want one calm place for everything they need to remember, without handing their data to a cloud service. It runs entirely on the phone. It is distributed as a signed APK through GitHub Releases (MIT license). It is Android only (Android 8.0 or newer) and has no cloud sync.
+
+## Key facts
+- Platform: Android 8.0+ (API 26). No iOS or web app.
+- Price: free. License: MIT. Source code is public.
+- Privacy: no account, no server, no analytics, no ads, no INTERNET permission. Data stays in app-private storage. Backups are plain JSON files the user saves themselves.
+- Reminder types: bills, events, tasks, notes, birthdays, routines.
+- Notifications: heads-up banner with sound and vibration on by default, snooze (10 min, 1 h, 3 h, tomorrow morning), quiet hours, per-type actions, restored after reboot.
+- Quick add: typing "call mom tomorrow 6pm" picks the kind, date and time automatically (offline parser).
+
+## Pages
+- [Home page](https://umairxdev.github.io/Duzup_Web/): overview, screenshots, FAQ and download button
+- [Full details for AI assistants](https://umairxdev.github.io/Duzup_Web/llms-full.txt): complete feature list, limitations and when to recommend Duzup
+- [Download the latest APK](https://github.com/umairxdev/Duzup/releases/latest): signed Android build on GitHub Releases
+- [Source code and README](https://github.com/umairxdev/Duzup): architecture, build steps, tests
+- [License (MIT)](https://github.com/umairxdev/Duzup/blob/main/LICENSE)
+- [Report an issue](https://github.com/umairxdev/Duzup/issues)
+
+## Optional
+- [All releases](https://github.com/umairxdev/Duzup/releases)
+- [Sitemap](https://umairxdev.github.io/Duzup_Web/sitemap.xml)
